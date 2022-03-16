@@ -102,9 +102,10 @@
                   <div class="col-sm-6 col-md-7">
                     <div class="about-info">
                       <p><span class="title-s">Name: </span> <span>Hilda Yuliani</span></p>
-                      <p><span class="title-s">Profile: </span> <span>full stack developer</span></p>
-                      <p><span class="title-s">Email: </span> <span>hildayuliani015@gmail.com</span></p>
-                      <p><span class="title-s">Phone: </span> <span>085705935081</span></p>
+                      <p><span class="title-s">Age: </span> <span>21</span></p>
+                      <p><span class="title-s">Adress: </span> <span>Pamokolan, Cihaurbeuti Ciamis</span></p>
+                      <!-- <p><span class="title-s">Email: </span> <span>hildayuliani015@gmail.com</span></p>
+                      <p><span class="title-s">Phone: </span> <span>085705935081</span></p> -->
                     </div>
                   </div>
                 </div>
@@ -144,22 +145,41 @@
                       Education
                     </h5> -->
 
+                    <h3 class="resume-title">About Us</h3>
+                    <br>
+
+
+
+
                     <h3 class="resume-title">Education</h3>
             <div class="resume-item">
-              <h4>Master of Fine Arts &amp; Graphic Design</h4>
-              <h5>2015 - 2016</h5>
-              <p><em>Rochester Institute of Technology, Rochester, NY</em></p>
-              <p>Qui deserunt veniam. Et sed aliquam labore tempore sed quisquam iusto autem sit. Ea vero voluptatum qui ut dignissimos deleniti nerada porti sand markend</p>
+              <h5>Politeknik LP3I Tasikmalaya</h5>
+              <h5>2020 - Present</h5>
+              <p><em>Informatics Management</em></p>
+              <!-- <p>Qui deserunt veniam. Et sed aliquam labore tempore sed quisquam iusto autem sit. Ea vero voluptatum qui ut dignissimos deleniti nerada porti sand markend</p> -->
             </div>
+            <br>
             <div class="resume-item">
-              <h4>Bachelor of Fine Arts &amp; Graphic Design</h4>
+              <h5>Senior High School Ma'arif NU Cihaurbeuti</h5>
               <h5>2010 - 2014</h5>
-              <p><em>Rochester Institute of Technology, Rochester, NY</em></p>
-              <p>Quia nobis sequi est occaecati aut. Repudiandae et iusto quae reiciendis et quis Eius vel ratione eius unde vitae rerum voluptates asperiores voluptatem Earum molestiae consequatur neque etlon sader mart dila</p>
+              <p><em>Technic Computer Network</em></p>
+              <!-- <p>Quia nobis sequi est occaecati aut. Repudiandae et iusto quae reiciendis et quis Eius vel ratione eius unde vitae rerum voluptates asperiores voluptatem Earum molestiae consequatur neque etlon sader mart dila</p> -->
+            </div>
+            <br>
+            <div class="resume-item">
+              <h5>Junior High School 2 Cihaurbeuti</h5>
+              <h5>2010 - 2014</h5>
+              <!-- <p><em>Technic Computer Network</em></p> -->
+              <!-- <p>Quia nobis sequi est occaecati aut. Repudiandae et iusto quae reiciendis et quis Eius vel ratione eius unde vitae rerum voluptates asperiores voluptatem Earum molestiae consequatur neque etlon sader mart dila</p> -->
+            </div>
+            <br>
+            <div class="resume-item">
+              <h5>Elementery School 2 Pamokolan</h5>
+              <h5>2010 - 2014</h5>
+              <!-- <p><em>Technic Com[puter Network</em></p> -->
+              <!-- <p>Quia nobis sequi est occaecati aut. Repudiandae et iusto quae reiciendis et quis Eius vel ratione eius unde vitae rerum voluptates asperiores voluptatem Earum molestiae consequatur neque etlon sader mart dila</p> -->
             </div>
 
-
-            
 
                   </div>
                   <!-- <p class="lead">
@@ -613,7 +633,7 @@
                 <div class="col-md-6">
                   <div class="title-box-2">
                     <h5 class="title-left">
-                      Send Message Us
+                      CONTACT
                     </h5>
                   </div>
                   <div>
@@ -654,21 +674,21 @@
                 </div>
                 <div class="col-md-6">
                   <div class="title-box-2 pt-4 pt-md-0">
-                    <h5 class="title-left">
+                    <!-- <h5 class="title-left">
                       Get in Touch
-                    </h5>
+                    </h5> -->
                   </div>
                   <div class="more-info">
-                    <p class="lead">
+                    <!-- <p class="lead">
                       Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis dolorum dolorem soluta quidem
                       expedita aperiam aliquid at.
                       Totam magni ipsum suscipit amet? Autem nemo esse laboriosam ratione nobis
                       mollitia inventore?
-                    </p>
+                    </p> -->
                     <ul class="list-ico">
-                      <li><span class="ion-ios-location"></span> 329 WASHINGTON ST BOSTON, MA 02108</li>
-                      <li><span class="ion-ios-telephone"></span> (617) 557-0089</li>
-                      <li><span class="ion-email"></span> contact@example.com</li>
+                      <li><span class="ion-ios-location"></span> Jl. Cihaurbeuti Panumbangan Ciamis</li>
+                      <li><span class="ion-ios-telephone"></span> 085705935081</li>
+                      <li><span class="ion-email"></span> hildayuliani015@gmail.com</li>
                     </ul>
                   </div>
                   <div class="socials">
